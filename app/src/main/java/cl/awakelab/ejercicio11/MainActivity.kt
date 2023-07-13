@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     }
     }
 
-Ejercicio C
+//Ejercicio C
 /*fun main(){
     var numero1 = 10
     var numero2 = 33
@@ -32,7 +32,7 @@ Ejercicio C
 }
 
  */
-Ejercicio 11 letra a
+//Ejercicio 11 letra a
 fun main() {
     val amanda = Person("Amanda", 33, "play tennis", null)
     val atiqah = Person("Atiqah", 28, "climb", amanda)
